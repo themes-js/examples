@@ -18,3 +18,12 @@ li {
 * {
     text-decoration: none;
 }
+
+#themeToggleButton {
+    color: var(--font-color);
+    background: var(--color-primary);
+    color: var(--nav-text-color);
+    background: var(--nav-background-color);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
