@@ -4,7 +4,7 @@ In this repository, you can find a few example pages that use the themes.js libr
 
 # Online demo
 
-[Themes.js online demo](https://themes-js.github.io/examples/index.html)
+[Themes.js online demo](https://themes-js.github.io/examples/)
 
 # Versions
 
