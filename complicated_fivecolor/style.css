@@ -1,0 +1,27 @@
+html {
+    background-color: var(--body-background-color);
+    color: var(--body-text-color);
+    transition: 0.5s;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    color: var(--extra-color);
+}
+
+h1 {
+    text-align: center;
+    color: var(--title-color);
+}
+
+p {
+    margin: 10%;
+    font-size: 1.5em;
+}
+
+#themeToggleButton {
+    color: var(--nav-text-color);
+    background: var(--nav-background-color);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
